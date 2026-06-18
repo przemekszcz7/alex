@@ -1,0 +1,6 @@
+{
+  "name": "Hurtownia Opakowań ALEX",
+  "description": "Profesjonalna strona internetowa hurtowni opakowań ALEX w Kutnie. Wszystko o naszej ofercie, marce i kontakcie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
